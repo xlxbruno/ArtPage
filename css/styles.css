@@ -1,0 +1,28 @@
+/*styled using tags*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+padding: 10px;
+    margin-bottom: 5px;
+
+}
+/*styled using ids*/
+#image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    padding: 10px;
+    margin-bottom: 5px;opacity: 5%;
+}
+/*styled using class*/
+.image2 {
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid red;
+}
